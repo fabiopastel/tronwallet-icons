@@ -1,0 +1,96 @@
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'tronwallet';
+  font-style: normal;
+  font-weight: normal;
+ 
+  /* fix buttons height */
+  line-height: 1em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+}
+ 
+.icon-add-small { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x21;&nbsp;'); }
+.icon-wallet { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x22;&nbsp;'); }
+.icon-explorer { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x23;&nbsp;'); }
+.icon-add { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x24;&nbsp;'); }
+.icon-face-id { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x25;&nbsp;'); }
+.icon-votes { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x26;&nbsp;'); }
+.icon-visible { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x27;&nbsp;'); }
+.icon-user { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x28;&nbsp;'); }
+.icon-unfreeze { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x29;&nbsp;'); }
+.icon-unfreeze-fill { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2a;&nbsp;'); }
+.icon-tw-logo { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2b;&nbsp;'); }
+.icon-message { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2c;&nbsp;'); }
+.icon-tron { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2d;&nbsp;'); }
+.icon-transfer { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2e;&nbsp;'); }
+.icon-transfer-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x2f;&nbsp;'); }
+.icon-transfer-down { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x30;&nbsp;'); }
+.icon-transfer-angle-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x31;&nbsp;'); }
+.icon-transfer-angle-down { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x32;&nbsp;'); }
+.icon-switch { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x33;&nbsp;'); }
+.icon-sorting { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x34;&nbsp;'); }
+.icon-smart-contract { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x35;&nbsp;'); }
+.icon-share { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x36;&nbsp;'); }
+.icon-settings { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x37;&nbsp;'); }
+.icon-send { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x38;&nbsp;'); }
+.icon-search { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x39;&nbsp;'); }
+.icon-restore { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3a;&nbsp;'); }
+.icon-request { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3b;&nbsp;'); }
+.icon-request-2 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3c;&nbsp;'); }
+.icon-reorder { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3d;&nbsp;'); }
+.icon-refresh { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3e;&nbsp;'); }
+.icon-refresh-arrows { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x3f;&nbsp;'); }
+.icon-receive { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x40;&nbsp;'); }
+.icon-question { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x41;&nbsp;'); }
+.icon-filter { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x42;&nbsp;'); }
+.icon-fingerprint { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x43;&nbsp;'); }
+.icon-freeze { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x44;&nbsp;'); }
+.icon-liked { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x45;&nbsp;'); }
+.icon-like { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x46;&nbsp;'); }
+.icon-history { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x47;&nbsp;'); }
+.icon-house { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x48;&nbsp;'); }
+.icon-info-balloon { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x49;&nbsp;'); }
+.icon-key { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x4a;&nbsp;'); }
+.icon-line-chart { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x4b;&nbsp;'); }
+.icon-lock { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x4c;&nbsp;'); }
+.icon-market-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x4d;&nbsp;'); }
+.icon-market,graph { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x4e;&nbsp;'); }
+.icon-menu { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x4f;&nbsp;'); }
+.icon-diary { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x50;&nbsp;'); }
+.icon-notifications { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x51;&nbsp;'); }
+.icon-participate { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x52;&nbsp;'); }
+.icon-pay { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x53;&nbsp;'); }
+.icon-exchange { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x54;&nbsp;'); }
+.icon-energy { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x55;&nbsp;'); }
+.icon-edit { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x56;&nbsp;'); }
+.icon-depth { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x57;&nbsp;'); }
+.icon-delete { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x58;&nbsp;'); }
+.icon-dashboard { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x59;&nbsp;'); }
+.icon-dapps { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x5a;&nbsp;'); }
+.icon-copy { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x5b;&nbsp;'); }
+.icon-close { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x5c;&nbsp;'); }
+.icon-close-small { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x5d;&nbsp;'); }
+.icon-chat { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x5e;&nbsp;'); }
+.icon-certified { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x5f;&nbsp;'); }
+.icon-candle { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x60;&nbsp;'); }
+.icon-bandwidth { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x61;&nbsp;'); }
+.icon-right-arrow { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x62;&nbsp;'); }
+.icon-arrow-line-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x63;&nbsp;'); }
+.icon-arrow-line-down { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x64;&nbsp;'); }
+.icon-left-arrow { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x65;&nbsp;'); }
+.icon-check { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x66;&nbsp;'); }
+.icon-triangle-down { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x67;&nbsp;'); }
+.icon-triangle-up { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x68;&nbsp;'); }
+.icon-bitcoin { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x69;&nbsp;'); }
+.icon-games { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6a;&nbsp;'); }
+.icon-gambling { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6b;&nbsp;'); }
+.icon-exchange-dapp { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6c;&nbsp;'); }
+.icon-collectibles { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6d;&nbsp;'); }
+.icon-asterisk { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6e;&nbsp;'); }
+.icon-gradient-arrow { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6f;&nbsp;'); }
+.icon-vote { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x70;&nbsp;'); }
+.icon-close-window { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x71;&nbsp;'); }
+.icon-maximize-window { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x72;&nbsp;'); }
+.icon-minimize-window { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x73;&nbsp;'); }
+.icon-list { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x74;&nbsp;'); }
